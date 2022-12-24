@@ -1,5 +1,5 @@
-# RPA and Angular Developer
-I'm currently working on robotics process automation and frontend development using angular 14.<br>I would like to be a part of opensource projects related to automation and angular.<br>
+# 👽 RPA and Angular Developer
+I'm currently working on 🤖 robotics process automation using Ui Path and 💻 frontend development using angular 14.<br>I would like to be a part of opensource projects related to automation and angular.<br>
 
 
 ## 🌐 Socials:
