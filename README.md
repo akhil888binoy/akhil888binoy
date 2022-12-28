@@ -3,9 +3,8 @@
 </div> 
 
 
-# 👽 RPA and Angular Developer
-I'm currently working on 🤖 robotics process automation using Ui Path and 💻 frontend development using angular 14.<br>I would like to be a part of opensource projects related to automation and angular.<br>
-
+# 🤖 RPA and Angular Developer
+I am an 💻 Angular and 🤖 RPA developer with experience in both front-end and automation development. I have a strong understanding of Angular, including the latest features and best practices, and I have experience using RPA tools such as UiPath and Automation Anywhere to automate business processes. In my projects, I strive to write clean, efficient, and maintainable code that follows best practices and industry standards. I am always looking for ways to improve my skills and contribute to the development community, and I welcome the opportunity to collaborate on projects with other developers.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akil.binoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B1iyKlgGCTeujTEcq1Ocj9A%3D%3D) 
