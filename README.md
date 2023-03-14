@@ -6,6 +6,32 @@
 # 👽 Indie Hacker
 I am a highly skilled RPA developer with expertise in utilizing UiPath and Angular to create efficient and effective automation solutions. My proficiency in UiPath allows me to seamlessly integrate robotic processes into business operations, while my knowledge of Angular enables me to craft dynamic and intuitive user interfaces. I am dedicated to delivering outstanding results and am constantly seeking to expand my skill set to stay at the forefront of the industry.
 
+## 🏆Achievements
+Top 23 HackNITR 4.0 🏆
+Issued by NIT Rourkela
+
+I am proud to announce that my project was nominated as one of the top 23 projects among 334 projects and 5000+ participants in HackNITR 4.0, a prestigious hackathon conducted by NIT Rourkela. The event attracted international hackers and provided a platform for participants to showcase their skills and creativity.
+
+Automation Challenge 🤖
+Issued by TheAutomationChallenge.com
+
+1st Runner Up🏆 - Ureck a thon 3.0
+Issued by UEM Kolkata
+
+Winner ( 1st place ) 🏆 - Research Hacks
+Issued by Pi & World
+
+Winner ( Most Creative Use of GitHub ) 🏆 - Hack Around The World 2
+Issued by Major League Hacking
+
+Best Social Hack 🏆 - JUET Builds
+Issued by CSI JUET
+
+Winner (Best Automation Hack) 🏆 - Code with Harnoor 2.0
+
+Winner ( 1st place ) 🏆 - HackForCreators
+Issued by Major League Hacking
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akil.binoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B1iyKlgGCTeujTEcq1Ocj9A%3D%3D) 
 
