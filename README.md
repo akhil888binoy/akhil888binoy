@@ -34,7 +34,7 @@ Issued by Major League Hacking
 
 Winner ( 1st place ) 🏆- Bayview Hackathon 03
 
-Winner ( Most Creative Use of GitHub ) 🏆- MorganHacksWinner 
+Winner ( Most Creative Use of GitHub ) 🏆- MorganHacks 
 Issued by Morgan State University 
 
 ## 🌐 Socials:
