@@ -7,10 +7,10 @@
 I am a highly skilled RPA developer with expertise in utilizing UiPath and Angular to create efficient and effective automation solutions. My proficiency in UiPath allows me to seamlessly integrate robotic processes into business operations, while my knowledge of Angular enables me to craft dynamic and intuitive user interfaces. I am dedicated to delivering outstanding results and am constantly seeking to expand my skill set to stay at the forefront of the industry.
 
 ## 🏆Achievements
-Top 23 HackNITR 4.0 🏆
+Top 20 HackNITR 4.0 🏆
 Issued by NIT Rourkela
 
-I am proud to announce that my project was nominated as one of the top 23 projects among 334 projects and 5000+ participants in HackNITR 4.0, a prestigious hackathon conducted by NIT Rourkela. The event attracted international hackers and provided a platform for participants to showcase their skills and creativity.
+I am proud to announce that my project was nominated as one of the top 20 projects among 334 projects and 5000+ participants in HackNITR 4.0, a prestigious hackathon conducted by NIT Rourkela. The event attracted international hackers and provided a platform for participants to showcase their skills and creativity.
 
 Automation Challenge 🤖
 Issued by TheAutomationChallenge.com
