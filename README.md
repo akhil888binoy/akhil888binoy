@@ -1,5 +1,5 @@
 
-# 👽 Indie Hacker
+# 👽 INDIE HACKER
 I am a highly skilled RPA developer with expertise in utilizing UiPath and Angular to create efficient and effective automation solutions. My proficiency in UiPath allows me to seamlessly integrate robotic processes into business operations, while my knowledge of Angular enables me to craft dynamic and intuitive user interfaces. I am dedicated to delivering outstanding results and am constantly seeking to expand my skill set to stay at the forefront of the industry.
 
 ## 🏆Achievements
