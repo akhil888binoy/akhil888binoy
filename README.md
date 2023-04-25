@@ -33,6 +33,9 @@ Winner ( 1st place ) 🏆- Bayview Hackathon 03
 Winner ( Most Creative Use of GitHub ) 🏆- MorganHacks 
 Issued by Morgan State University 
 
+2nd Runner Up 🏆 - Design and Hacks
+Issued by Major League Hacking 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akil.binoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B1iyKlgGCTeujTEcq1Ocj9A%3D%3D) 
 
