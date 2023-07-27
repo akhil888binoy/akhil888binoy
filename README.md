@@ -25,7 +25,7 @@ I am proud to announce that my project was nominated as one of the top 20 projec
 Automation Challenge 🤖
 Issued by TheAutomationChallenge.com
 
-1st Runner Up🏆 - Ureck a thon 3.0
+Winner ( 1st Runner Up ) 🏆 - Ureck a thon 3.0
 Issued by UEM Kolkata
 
 Winner ( 1st place ) 🏆 - Research Hacks
@@ -34,7 +34,7 @@ Issued by Pi & World
 Winner ( Most Creative Use of GitHub ) 🏆 - Hack Around The World 2
 Issued by Major League Hacking
 
-Best Social Hack 🏆 - JUET Builds
+Winner ( Best Social Hack ) 🏆 - JUET Builds
 Issued by CSI JUET
 
 Winner (Best Automation Hack) 🏆 - Code with Harnoor 2.0
@@ -47,7 +47,7 @@ Winner ( 1st place ) 🏆- Bayview Hackathon 03
 Winner ( Most Creative Use of GitHub ) 🏆- MorganHacks 
 Issued by Morgan State University 
 
-Winner( 2nd Runner Up ) 🏆 - Design and Hacks
+Winner ( 2nd Runner Up ) 🏆 - Design and Hacks
 Issued by Major League Hacking 
 
 ## 🌐 Socials:
