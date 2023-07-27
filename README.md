@@ -47,7 +47,7 @@ Winner ( 1st place ) 🏆- Bayview Hackathon 03
 Winner ( Most Creative Use of GitHub ) 🏆- MorganHacks 
 Issued by Morgan State University 
 
-2nd Runner Up 🏆 - Design and Hacks
+Winner( 2nd Runner Up ) 🏆 - Design and Hacks
 Issued by Major League Hacking 
 
 ## 🌐 Socials:
