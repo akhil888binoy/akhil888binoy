@@ -1,6 +1,6 @@
 
 # 👽 INDIE HACKER
-Welcome! I'm an accomplished software developer specializing in UiPath, React.js, and DevOps. With a passion for innovation and a commitment to driving business success, I offer the following key strengths:
+Welcome! I'm an accomplished software developer specializing in UiPath and ME(A)RN. With a passion for innovation and a commitment to driving business success, I offer the following key strengths:
 
 🚀 UiPath Automation: Harnessing the power of UiPath, I excel at automating processes, streamlining workflows, and enhancing operational efficiency. By optimizing tasks and integrating systems seamlessly, I drive significant time and cost savings for businesses.
 
