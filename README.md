@@ -6,8 +6,6 @@ Welcome! I'm an accomplished software developer specializing in UiPath, React.js
 
 💡ME(A)RN Stack Development: I am a skilled ME(A)RN stack developer, which means I can build full-stack web applications using JavaScript, MongoDB, Express.js, React.js, Redux , Angular 14+ and Node.js. I have a deep understanding of these technologies and how they work together to create powerful and scalable web applications.
 
-⚙️ DevOps Excellence: I bring expertise in DevOps principles and practices to accelerate software development and delivery. By implementing efficient CI/CD pipelines, leveraging tools like Git, Jenkins, and Docker, I foster collaboration and enable rapid, reliable releases.
-
 💼 Proven Track Record: Having won 9 hackathons, I thrive in fast-paced, competitive environments. My ability to deliver high-quality solutions within strict deadlines is a testament to my dedication and resourcefulness.
 
 📚 Continuous Learning: I am an avid learner, continuously staying up-to-date with the latest industry trends and technologies. By embracing emerging tools and methodologies, I consistently offer cutting-edge solutions to address client challenges.
