@@ -1,4 +1,4 @@
-# Indie Hacker / Developer streamer
+# Indie Hacker
 I build cool stuffs!
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
