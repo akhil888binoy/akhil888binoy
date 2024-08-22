@@ -1,5 +1,5 @@
 # Blockchain Developer
-I build cool stuffs!
+Innovative developer with a passion for building cutting-edge solutions in blockchain, RPA, and the MERN stack. With 9 hackathon wins showcasing my expertise in real-world problem-solving, I thrive on tackling complex challenges and delivering impactful solutions. My experience spans from developing decentralized applications and smart contracts to automating business processes and creating dynamic web applications. I’m dedicated to leveraging technology to drive innovation and improve user experiences. Let’s connect and explore how we can create the future together!
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
 Issued by NIT Rourkela
