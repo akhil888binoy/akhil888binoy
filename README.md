@@ -1,5 +1,8 @@
-# Full Stack Blockchain Developer
-Innovative developer with a passion for building cutting-edge solutions in blockchain, RPA, and the MERN stack. With 9 hackathon wins showcasing my expertise in real-world problem-solving, I thrive on tackling complex challenges and delivering impactful solutions. My experience spans from developing decentralized applications and smart contracts to automating business processes and creating dynamic web applications. I’m dedicated to leveraging technology to drive innovation and improve user experiences. Let’s connect and explore how we can create the future together!
+# Fullstack Blockchain Developer ⚡️
+
+I am a blockchain developer specializing in Rust and Solidity, with extensive experience in DeFi, smart contract development, and exchange infrastructure. Currently, I’m working at a company building a crypto exchange, where I contribute to the development of secure, scalable, and efficient blockchain solutions.
+
+With 9 hackathon wins, I have a track record of building innovative decentralized applications, from DeFi protocols to cross-chain solutions. My passion lies in creating high-performance blockchain systems, smart contract automation, and on-chain financial primitives.
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
 Issued by NIT Rourkela
