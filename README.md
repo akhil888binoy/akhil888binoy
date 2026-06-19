@@ -1,6 +1,6 @@
-# Fullstack AI Developer  ⚡️
+# Software Engineer (Blockchain/AI)  ⚡️
 
-Full-Stack AI Developer focused on building intelligent systems, agentic workflows, and low-latency applications for quantitative trading and hedge fund operations. Experienced in developing AI-powered research tools, data pipelines, real-time infrastructure, and production-grade full-stack platforms. 9-time hackathon winner recognized for rapid execution, strong problem-solving, and delivering high-impact systems in fast-paced environments.
+Software Engineer specializing in AI and Blockchain, with experience building intelligent systems, distributed applications, and financial technology infrastructure. Skilled in developing AI-powered platforms, autonomous agents, smart contracts, and scalable backend services using modern technologies including Rust, Solidity, and TypeScript. Currently building AI-driven solutions for quantitative finance, with a strong focus on automation, data-intensive systems, and production-grade software. A 9-time hackathon winner known for rapid execution, innovation, and delivering high-impact products in fast-paced environments.
 
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
