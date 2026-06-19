@@ -1,8 +1,6 @@
-# Fullstack Developer (Blockchain / AI) ⚡️
+# Fullstack AI Developer  ⚡️
 
-Systems-focused Fullstack Developer experienced in building low-latency backend systems, distributed services, and real-time
-infrastructure. 9-time hackathon winner known for fast execution, strong problem-solving, and shipping production-ready
-systems in high-pressure environments.
+Full-Stack AI Developer focused on building intelligent systems, agentic workflows, and low-latency applications for quantitative trading and hedge fund operations. Experienced in developing AI-powered research tools, data pipelines, real-time infrastructure, and production-grade full-stack platforms. 9-time hackathon winner recognized for rapid execution, strong problem-solving, and delivering high-impact systems in fast-paced environments.
 
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
