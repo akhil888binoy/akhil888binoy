@@ -1,6 +1,6 @@
 # Software Engineer (Blockchain/AI)  ⚡️
 
-Software Engineer specializing in AI and Blockchain, with experience building intelligent systems, distributed applications, and financial technology infrastructure. Skilled in developing AI-powered platforms, autonomous agents, smart contracts, and scalable backend services using modern technologies including Rust, Solidity, and TypeScript. Currently building AI-driven solutions for quantitative finance, with a strong focus on automation, data-intensive systems, and production-grade software. A 9-time hackathon winner known for rapid execution, innovation, and delivering high-impact products in fast-paced environments.
+Software Engineer specializing in AI and Blockchain, with experience building intelligent systems, distributed applications, and financial technology infrastructure. Skilled in developing AI-powered platforms, autonomous agents, smart contracts, and scalable backend services using modern technologies including Rust, Solidity, Python and TypeScript. Currently building AI-driven solutions for quantitative finance, with a strong focus on automation, data-intensive systems, and production-grade software. A 9-time hackathon winner known for rapid execution, innovation, and delivering high-impact products in fast-paced environments.
 
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
