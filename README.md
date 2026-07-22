@@ -4,8 +4,6 @@ Software Engineer specializing in AI, multi-agent systems, and blockchain, with 
 
 Currently building an AI-powered quantitative research platform that automates the entire research pipeline—from market analysis and alpha discovery to strategy generation, backtesting, validation, and research memory—using LLMs, LangGraph, and statistical analysis. Passionate about building production-grade systems at the intersection of AI, quantitative finance, and distributed infrastructure.
 
-🏆 9× Hackathon Winner with a track record of rapidly building innovative, high-impact products in fast-paced environments.
-
 ## 🏆Achievements
 Top 20 HackNITR 4.0 🏆
 Issued by NIT Rourkela
