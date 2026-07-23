@@ -1,4 +1,4 @@
-# Software Engineer (Blockchain/AI)  ⚡️
+# Software Engineer (AI/Blockchain)  ⚡️
 
 Software Engineer specializing in AI, multi-agent systems, and blockchain, with experience building intelligent software, distributed systems, and financial technology infrastructure. Skilled in designing AI-powered platforms, autonomous agents, scalable backend services, and smart contracts using Rust, Python, TypeScript, and Solidity.
 
